@@ -6,7 +6,7 @@ export default function App() {
 
   return (
     <>
-      <div>App</div>
+      <div>App 1</div>
       <MarketingComponent></MarketingComponent>{" "}
     </>
   );
